@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/purefml/portfolio/static/css/main.9e52a9d9.chunk.css",
+    "main.js": "/purefml/portfolio/static/js/main.b6772d50.chunk.js",
+    "main.js.map": "/purefml/portfolio/static/js/main.b6772d50.chunk.js.map",
+    "runtime-main.js": "/purefml/portfolio/static/js/runtime-main.8bbe1f9b.js",
+    "runtime-main.js.map": "/purefml/portfolio/static/js/runtime-main.8bbe1f9b.js.map",
+    "static/js/2.ad549617.chunk.js": "/purefml/portfolio/static/js/2.ad549617.chunk.js",
+    "static/js/2.ad549617.chunk.js.map": "/purefml/portfolio/static/js/2.ad549617.chunk.js.map",
+    "index.html": "/purefml/portfolio/index.html",
+    "static/css/main.9e52a9d9.chunk.css.map": "/purefml/portfolio/static/css/main.9e52a9d9.chunk.css.map",
+    "static/js/2.ad549617.chunk.js.LICENSE.txt": "/purefml/portfolio/static/js/2.ad549617.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/purefml/portfolio/static/media/herobackground.dfdf876a.png",
+    "static/media/profile-avatar.58758af1.png": "/purefml/portfolio/static/media/profile-avatar.58758af1.png",
+    "static/media/profile-img.6ccf03e4.jpg": "/purefml/portfolio/static/media/profile-img.6ccf03e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bbe1f9b.js",
+    "static/js/2.ad549617.chunk.js",
+    "static/css/main.9e52a9d9.chunk.css",
+    "static/js/main.b6772d50.chunk.js"
+  ]
+}
