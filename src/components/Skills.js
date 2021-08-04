@@ -34,7 +34,7 @@ export default function Skills() {
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">HTML / CSS <i class="val">75%</i></span>
+              <span class="skill">HTML / CSS <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" style={{width: HtmlCss, backgroundColor:"#dc3d4b"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
